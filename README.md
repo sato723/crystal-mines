@@ -1,2 +1,2 @@
-# crystal-samples
+# crystal-mines
 Crystal sample codes
