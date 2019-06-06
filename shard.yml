@@ -1,7 +1,10 @@
 name: crystal-mines
-version: 0.0.1
+version: 0.0.2
 dependencies:
   mysql:
     github: crystal-lang/crystal-mysql
   sqlite3:
     github: crystal-lang/crystal-sqlite3
+  stumpy_png:
+    github: stumpycr/stumpy_png
+    version: "~> 4.4.1"
